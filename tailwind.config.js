@@ -15,11 +15,10 @@ module.exports = {
       {
         light: {
           ...require("daisyui/src/theming/themes")["[data-theme=light]"],
-          "primary": "#9282C5",
-          "primary-focus": "#1965B6",
+          "primary": "#0592D7",
+          "primary-focus": "#6AC17B ",
           "neutral": "#2A609A",
           "neutral-focus": "white",
-          "dark-accent": "#D53C41"
           
         },
       },
@@ -27,17 +26,6 @@ module.exports = {
 },
   theme: {
     extend: {
-      colors: {
-        primary: "#9282C5",
-        "primary-focus": "#1965B6",
-        neutral: "#2A609A",
-        "neutral-focus": "white",
-        "dark-accent": "#845F91",
-        "light-accent": "#979C75"
-      },
-      boxShadow: {
-        'purple-700': '0 1px 2px -2px rgba(114, 71, 179, 0.1), 0 2px 4px -1px rgba(114, 71, 179, 0.06)',
-      },
       
     },
   },

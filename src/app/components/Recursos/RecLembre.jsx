@@ -4,12 +4,12 @@ import React from 'react';
 function RecLembre() {
   return (
     <div className="container my-4 max-w-7xl mx-auto md:px-6">
-      <section className="mb-12">
+      <section className="mb-4">
         <div className="flex flex-wrap items-center">
           <div className="mb-6 w-full shrink-0 grow-0 basis-auto px-3 lg:mb-0 lg:w-4/12">
             <h2 className="mb-6 text-4xl font-bold">
             
-            <p className="text-slate-700">
+            <p className="text-slate-700 pt-8">
             Google Sites
               </p>
             

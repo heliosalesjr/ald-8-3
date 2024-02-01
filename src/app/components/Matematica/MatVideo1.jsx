@@ -14,12 +14,12 @@ function MatVideo1() {
             
               <div className="w-full md:w-1/2 pr-4">
                 <div className=" mb-4">
-                    <h1 className="text-4xl font-bold text-slate-700">Porcentagem</h1>
+                    <h1 className="text-4xl font-bold text-slate-700">Gráficos de barras, colunas, linhas ou setores e seus elementos</h1>
                 </div>
-                <h1 className=" text-slate-700 mb-4 pr-8">Para falar sobre porcentagem a professora  ngela traz um pouco de história da matemática e mostra as diversas formas de representação da porcentagem, além de trazer exemplos de como encontrar a porcentagem de um número. </h1>
+                <h1 className=" text-slate-700 mb-4 pr-8">Os mais diversos tipos de gráficos estão presentes no nosso dia a dia e nos ajudam a organizar dados e demonstrar resultados dos mais diversos tipos. O professor Sandro Curió faz um apanhado dos principais gráficos que utilizamos para representar dados estatísticos, mostrando um exemplo de cada e seus principais elementos.</h1>
               </div>
               <div className="w-full md:w-1/2">
-                <ReactPlayer url='https://youtu.be/P3YIiKk0d-M' width="100%" />
+                <ReactPlayer url='https://youtu.be/GDEkkbwvhNg' width="100%" />
               </div>
             </div>
           </div>

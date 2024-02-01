@@ -9,7 +9,7 @@ function MatButton() {
             <p className="p-6 text-center text-gray-700 text-lg">
             Na próxima seção, apresentaremos uma ferramenta e uma estratégia didática ativa para facilitar a aplicação do programa.</p>
 
-            <p className='p-6 text-center justify center'>*Lembrando que a ferramenta apresentada é apenas uma SUGESTÃO de como aplicar o programa, ficando o educador livre para utilizá-la ou escolher uma de sua preferência.</p>
+           
         </div>
         <div className='flex items-center justify-center pb-8'>
             <Link href="/recursos">

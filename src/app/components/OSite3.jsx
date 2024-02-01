@@ -9,11 +9,11 @@ const Card = ({ title, content }) => (
 
 const OSite3 = () => {
   const cardsData = [
-    { title: 'Parte do quadro geral', content: '4. Compartilhar é preciso!' },
-    { title: 'Capítulos do livro do estudante', content: '6. Dividindo balas durante a aula. / 7. Cem por cento dos alunos gostam de feriados. / 8. Me dá um desconto aí?' },
+    { title: 'Parte do quadro geral', content: '3. Ricos e pobres.' },
+    { title: 'Capítulos do livro do estudante', content: '6. Uma celebração entre primos. / 7. Desigualdade econômica.' },
     { title: 'Atividades do projeto', content: 'IV - Atividades. / V - Avaliação' },
-    { title: 'Matemática e educação financeira', content: 'Frações / Cálculo de porcentagem' },
-    { title: 'Recursos didáticos', content: 'Poema de cordel / Google sites' },
+    { title: 'Matemática e educação financeira', content: 'Gráficos de barras, colunas, linhas ou setores. / Medidas de tendência central de dispersão. / Desigualdade econômica. / Desigualdade econômica entre nações.' },
+    { title: 'Recursos didáticos', content: 'Podcast / Google sites' },
   ];
 
   return (
